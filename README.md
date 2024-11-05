@@ -32,3 +32,5 @@ Experienced Engineering Manager passionate about technology, people, and high-qu
 ---
 
 _"Empowering engineers to do their best work isn’t just a goal—it's my commitment."_
+
+![](https://hit.yhype.me/github/profile?user_id=23048626)
