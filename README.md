@@ -1,36 +1,42 @@
 # Hi, I'm Łukasz /wukaʂ/ 👋
 
-Experienced Engineering Manager passionate about technology, people, and high-quality software. Over the past 12+ years, I’ve helped engineering teams grow, collaborated across domains, and delivered solutions to scale with company goals. My background spans **backend, full-stack, and cloud infrastructure** (including a solid foundation in **C#/.NET**, **MSSQL/stored procedures** and familiarity with **Java, Typescript,** and **Python**). I’ve managed teams responsible for everything from GenAI projects to messaging platforms and KPI monitoring.
+Engineering leader with 20 years in tech — including 10+ years building and running high-performing teams across backend systems, infrastructure, fullstack, and operations.
 
-### 🚀 About Me
+I’ve built entire engineering departments from the ground up, growing teams from 2 to 10+ engineers and managing groups of 20+ including contractors. I’ve led distributed teams across time zones and domains (Europe, China, North America) and supported products at scale. I thrive in early-stage or high-growth environments, where structure and delivery discipline need to be built from scratch.
 
-- **Engineering Leadership**: Over a decade in engineering leadership, managing remote and distributed teams across Europe and the USA. I’ve built teams from scratch, adding roles, capabilities, and headcount to support our mission.
-- **Product Development**: Proven success in launching and scaling products that users love. I balance speed and quality while focusing on team development, delivery, and customer satisfaction.
-- **Digital Transformation**: Skilled in evolving engineering units, implementing agile practices, and fostering collaboration across cross-functional teams.
+My experience spans telco, B2B SaaS, ecommerce, gaming, and AI-adjacent platforms. I’ve worked closely with product, marketing, and commercial teams — owning engineering delivery across full product lines and driving architecture decisions with company-wide impact. In one role, I led engineering for multiple internal tools powered by ML predictions, helping analysts and designers act on real-time insights. While the ML work was done elsewhere, my teams turned model outputs into real, usable products.
 
-### 💼 What I Bring
-- **People-First Management**: A strong proponent of servant leadership. I focus on empowering team members, fostering growth, and clearing roadblocks so engineers can excel.
-- **Process Improvement**: Experienced in scaling Agile practices, refining SDLC processes, and optimizing delivery workflows.
-- **Technical Knowledge**: Hands-on understanding of backend systems, devops processes, and open-source projects in radio communications and sailing.
+I focus on clarity, trust, and long-term resilience. My leadership style is calm and outcome-driven. I don’t micromanage or chase trends — I build teams that last and deliver consistently.
 
-### 👨‍💻 What I’m Currently Working On
-- **Engineering Manager Role Prep**: Actively preparing for roles with a focus on technical leadership, innovation, and collaboration.
-- **Open-Source Projects**: Exploring opportunities to contribute to projects in **radio communications**. Expect more to come from licensed Amateur Radio Operator [SQ5PUL](https://qrz.com/db/sq5pul).
-- **Sailing Technology**: Check out my own education Android app [Sailor Toolbox](https://sailortb.com) to learn more about sailing. 
-- **Knowledge Sharing**: Check out [Site Guts](https://siteguts.com) website where I share ideas, guides and best practices related to different aspects of running a technology unit. Take a look at my sample of [leetcode solutions](https://github.com/lukasz-gorgol/leetcode/) and take a grasp of good engineering practices.
-
-### 🌱 Skills & Interests
-- **Languages**: Java, C#, Python, Typescript (open to learning more!)
-- **Tools & Platforms**: GitHub, AWS, Azure, Jenkins, Kubernetes
-- **Domains**: DevOps, Cloud Infrastructure, Backend Systems, Microservices
-
-### 📫 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gorgol) LinkedIn profile [linkedin.com/in/gorgol](https://linkedin.com/in/gorgol)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lgorgol@gmail.com) Email me at <lgorgol@gmail.com>
-- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lukasz-gorgol) You’re already here! 😊 Feel free to reach out if you'd like to connect or discuss potential collaborations.
+Currently looking ahead to **Engineering Director / Site Lead** roles — where I can apply my experience to help scale teams, create structure, and support meaningful product work with business impact.
 
 ---
 
-_"Empowering engineers to do their best work isn’t just a goal—it's my commitment."_
+### 👨‍💻 Side Projects & Interests
+
+- **Radio Communication**: Licensed amateur radio operator — [SQ5PUL](https://qrz.com/db/sq5pul)
+- **8 Bit Microcomputers**: Author of [Galoping Top](https://galoping.top), 8 bit cpu suite (emulator, assembler, disassembler, debugger) 
+- **Sailing & Tech**: Creator of [Sailor Toolbox](https://sailortb.com), a mobile education app for sailors
+- **Writing**: Author at [Site Guts](https://siteguts.com) — sharing ideas and practices on engineering leadership
+- **Knowledge Practice**: Sample of [LeetCode solutions](https://github.com/lukasz-gorgol/leetcode) focused on clarity and structure
+
+---
+
+### 🌱 Skills & Topics of Interest
+
+- **Leadership**: Engineering strategy, org design, delivery systems, cross-functional collaboration  
+- **Tech Stack Familiarity**: Go, Python, Java, C#, TypeScript  
+- **Systems & Practices**: Cloud infrastructure, backend systems, DevOps, metrics and observability  
+- **Platforms**: GitHub, AWS, Azure, Jenkins, Kubernetes
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/gorgol)  
+- [Email](mailto:lgorgol@gmail.com) — lgorgol@gmail.com  
+- [QRZ](https://qrz.com/db/sq5pul) — for amateur radio contact
+
+---
 
 ![](https://hit.yhype.me/github/profile?user_id=23048626)
